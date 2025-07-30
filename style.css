@@ -64,6 +64,7 @@ h1{
     color:rgba(240,246,249,255);
     padding: 25%;
     padding-bottom: 0;
+    font-weight: bolder;
 }
 #paragraph1{
     color:rgba(230,240,249,100);
@@ -91,7 +92,8 @@ h2{
     margin-right: 80%;
 }
 #submit{
-    color: white;
+    color:rgba(230,240,249,100);
+    font-weight: bold;
     background-color: #05b3d2;
     border: none;
     border-radius: 50px;
