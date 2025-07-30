@@ -54,3 +54,19 @@ margin: auto;
 text-align: center; 
 margin: auto;
 }
+h1{
+    color:rgba(240,246,249,255);
+    padding: 25%;
+    padding-bottom: 0;
+}
+#paragraph1{
+    color:rgba(230,240,249,100);
+    padding: 2% 10%;
+}
+#paragraph2{
+    color:rgba(220,230,239,100);
+    padding: 2% 15%;
+}
+textarea{
+ background-color: rgba(238,238,238,255);
+}
